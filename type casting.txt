@@ -1,0 +1,6 @@
+type casting
+type conversion error
+data types
+importing libraries in python 
+
+( all in python)
