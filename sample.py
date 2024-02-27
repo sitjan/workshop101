@@ -5,5 +5,5 @@
 
 y = int(input("Enter a number: "))
 x = y - 1
-output = 5 * x
+output = 5 * y
 print("The product of the number - 1 with 5 is", output)
