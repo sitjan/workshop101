@@ -3,6 +3,7 @@
 # print(S + name)
 # #
 
-x = int(input("Enter a number: "))
+y = int(input("Enter a number: "))
+x = y - 1
 output = 5 * x
-print("The product of the number with 5 is", output)
+print("The product of the number - 1 with 5 is", output)
